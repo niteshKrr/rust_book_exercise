@@ -6,5 +6,6 @@
 
 ### Contents: 🦀
 
-1. [sort vectors (Ownership concept)](./project_01_median_mode)
-2. [simple project using structs & enums](./project_02_text_interface)
+1. [find median and mode](./project_01_median_mode)
+2. [simple project using structs & hashmap](./project_02_text_interface)
+3. [simple inventory management system](./project_03_simple_inventory_system)
