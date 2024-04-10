@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "median_mode"
+name = "project_01_median_mode"
 version = "0.1.0"

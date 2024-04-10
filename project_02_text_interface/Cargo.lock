@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "text_interface"
+name = "project_02_text_interface"
 version = "0.1.0"
